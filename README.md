@@ -8,4 +8,4 @@
 
 ![image](https://imgur.com/VNn3YK4.jpg)
 
-![image](https://github.com/Puriwt/Software-Quality-Assurance/blob/main/media/studentphoto.jpeg)
+![image](https://github.com/Puriwt/Software-Quality-Assurance/blob/main/media/studentphoto)
